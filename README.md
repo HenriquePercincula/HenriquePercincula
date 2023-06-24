@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitor Henrique</h1>
+<h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://henriquepercincula.github.io](https://henriquepercincula.github.io)
